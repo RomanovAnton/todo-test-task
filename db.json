@@ -1,0 +1,22 @@
+{
+   "items": [
+      {
+         "id": "1",
+         "title": "обед",
+         "completed": "false",
+         "important": "true"
+      },
+      {
+         "id": "2",
+         "title": "завтрак",
+         "completed": "true",
+         "important": "true"
+      },
+      {
+         "id": "3",
+         "title": "ужин",
+         "completed": "false",
+         "important": "true"
+      }
+   ]
+}

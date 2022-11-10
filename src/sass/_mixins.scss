@@ -1,0 +1,6 @@
+@mixin displayFlex($flx-drc, $js-cnt, $alg-itm) {
+   display: flex;
+   flex-direction: $flx-drc;
+   justify-content: $js-cnt;
+   align-items: $alg-itm;
+}
